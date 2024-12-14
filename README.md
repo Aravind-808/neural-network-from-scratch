@@ -44,3 +44,7 @@ NEURAL_NET/
 * Classifies articles into AI or human generated using sigmoid activation function and binary cross entropy
 ## Full-Adder Solver (fa_solver)
 * Solves Full adder using tanh activation function and mse.
+
+Check code for more details about how all this works. Can't put it all here, plus you can learn and execute at the same time :)
+
+Bye-bye!
